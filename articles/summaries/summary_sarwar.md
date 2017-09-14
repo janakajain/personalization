@@ -7,9 +7,9 @@
 In this paper, the authors contend how item-based recommendation algorithms fare better than user-based recommendation algorithms both in terms of speed and quality. Both these factors are becoming increasingly important with the increasing scale of operations and competition. Models based on weighted-sum and regression are compared with the one based on K-nearest neighbour to demonstrate this hypothesis. The results support the hypothesis.  
 
 The paper explicitely describes its contributions as:  
-	1. **Analysis** of item-based prediction algorithms and **identification** of different ways to implement its sub-tasks.  
-	2. **Formulation** of a pre-computed model of item-similarity to increase the online scalability of item-based recommendations.  
-	3. An experimental **comparison** of the quality of several different item-based algorithms to the classic user-based (nearest neighbor) algorithms.
+  1. **Analysis** of item-based prediction algorithms and **identification** of different ways to implement its sub-tasks.  
+  2. **Formulation** of a pre-computed model of item-similarity to increase the online scalability of item-based recommendations.  
+  3. An experimental **comparison** of the quality of several different item-based algorithms to the classic user-based (nearest neighbor) algorithms.
 
 This paper begins with a gentle introduction to the concept of recommendation and its significance in modern systems today. It briefly explains the collaborative filtering as a technique of mapping users to items and presenting similar items to similar users. It also touche upon the two challenges associated with collaborative filtering:  
 	1. **Scale**: With increasing number of users and increasing amount of information stored for each user, algorithms such as KNN may not scale well.  
