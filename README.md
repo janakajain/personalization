@@ -3,6 +3,7 @@
 ![Personalization](http://movingtargets.com/wp-content/uploads/2016/04/marketing-personalization.jpg)  
 
 _Image courtesy: http://movingtargets.com/_  
+
 ---  
 
 Computers may not understand emotions the way we do, but they can definitely fake to do it, and do it better than us.
