@@ -20,11 +20,27 @@ These two challenges are also inter-related which adds to the complexity of the 
 
 The paper then continues to discuss collaborative filtering algorithms and their two variants, _memory-based_ and _model-based_ approaches, before discussing a few challenges associated with _memory-based_ approaches and introducing _item-based_ approach and its sub-tasks.  
   
+---  
+
 ### Collaborative filtering based recommender systems  
 <img src=figures/sarwar_fig1.png></img>
 
 _Source: "Item Based Collaborative Filtering Recommendation Algorithms" by Sarwar et al. (2001)_  
+  
+The matrix in the figure above maps users to their ratings for items. These ratings can be obtained implicitely or explicitely. The algorithm outputs predictions and recommendations. Predictions are lists of probabilities assigned to items while recommendations is a list of top N items which aren't already in the user's list of rated items.  
+There are two types of collaborative filtering based recommendation algorithms:  
+  1. **Memory-based**: use the entire user-item data to identify the users who are _neighbors_ and then recommend items rated by similar users.
+  2. **Model-based**: first develop a model of user ratings using a probabilistic approach computing the expected value of a rating by a user based on his/her ratings for other items. Machine learning approached such as Bayesian network models, clustering and rule-based models are used in this case.  
+  
+**Challenges**: There are two major challenges of using collaborative filtering based recommendation algorithms:  
+  1. **Sparsity**: When the user-item matrix has very few entries. One case when this happens is when the number of items >> number of users, such that each user rates very few items.
+  2. **Scalability**: This happens when the number of users and items increase such that the algorithm efficiency suffers.  
+  
+---  
 
+### Collaborative filtering based recommender systems  
+
+Collaborative filtering 
 
 ### Some interesting extracts  
 > "Technology has dramatically reduced the barriers to publishing and distributing information. Now it is time to create the technologies that can help us sift through all the available information to find that which is most valuable to us."  
