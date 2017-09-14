@@ -22,9 +22,9 @@ The paper then continues to discuss collaborative filtering algorithms and their
   
 ### Collaborative filtering based recommender systems  
 <img src=figures/sarwar_fig1.png>
-	<i>Figure 1: The Collaborative Filtering Process</i>
+	<center><i>Figure 1: The Collaborative Filtering Process</i></center>
 </img>
-  
+
 _Source: "Item Based Collaborative Filtering Recommendation Algorithms" by Sarwar et al. (2001)_  
 
 
