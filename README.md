@@ -1,6 +1,7 @@
 # Personalization - Theory and Applications  
   
 ![Personalization](http://movingtargets.com/wp-content/uploads/2016/04/marketing-personalization.jpg)  
+
 _Image courtesy: http://movingtargets.com/_  
 ---  
 
