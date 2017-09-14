@@ -38,9 +38,16 @@ There are two types of collaborative filtering based recommendation algorithms:
   
 ---  
 
-### Collaborative filtering based recommender systems  
+### Content filtering based recommender systems  
 
-Collaborative filtering 
+Content filtering based algorithms look into the items rated by a user and then for a given item of unknown rating, calculate the k most-similar known-items. The similarities of these known-items with the unknown-rating are calculated. The unknown rating is then calculated as the weighted average of the ratings of the known items where the weight in the most simple case for each known-item is its corresponding similarity score. The algorithm can thus be split into two phases:  
+  1. **Item similarity computation**: Similarity is a subjective term and can be calculated in a number of ways. Some of these mentioned in the paper are given below:  
+    a. Cosine similarity  
+    b. Correlation
+    c. Adjusted cosine similarity
+  2. **Prediction computation**: Prediction computation can also be calculated in different ways:  
+    a. Weighted sum
+    b. 
 
 ### Some interesting extracts  
 > "Technology has dramatically reduced the barriers to publishing and distributing information. Now it is time to create the technologies that can help us sift through all the available information to find that which is most valuable to us."  
