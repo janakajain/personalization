@@ -21,7 +21,7 @@ These two challenges are also inter-related which adds to the complexity of the 
 The paper then continues to discuss collaborative filtering algorithms and their two variants, _memory-based_ and _model-based_ approaches, before discussing a few challenges associated with _memory-based_ approaches and introducing _item-based_ approach and its sub-tasks.  
   
 ### Collaborative filtering based recommender systems  
-<img src="figures/sarwar_fig1"><i>Figure 1: The Collaborative Filtering Process</i></img>
+<img src=figures/sarwar_fig1><i>Figure 1: The Collaborative Filtering Process</i></img>
 _Source: "Item Based Collaborative Filtering Recommendation Algorithms" by Sarwar et al. (2001)_  
 
 
