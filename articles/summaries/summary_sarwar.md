@@ -51,8 +51,10 @@ Content filtering based algorithms look into the items rated by a user and then 
   
 **Note**: This method takes O(n^2) time to run and thus can be used for calculating similarity scores in a batch mode.  
 
+  
+---  
 
-### Some interesting extracts  
+## Some interesting extracts  
 > "Technology has dramatically reduced the barriers to publishing and distributing information. Now it is time to create the technologies that can help us sift through all the available information to find that which is most valuable to us."  
 
 > "Users will "vote with their feet" by refusing to use recommender systems that are not consistently accurate for them."
