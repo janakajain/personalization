@@ -2,7 +2,7 @@
   
 ---  
 
-# Books and chapters
+## Books and chapters
   
 Personalization is a broad term and covers several knowledge areas including recommendation systems, machine learning, psychology and mathematics. The resources mentioned below will help you get a better perspective of and learn more about personalization. Please feel free to suggest any addition to these resources.  
   
@@ -13,7 +13,7 @@ Personalization is a broad term and covers several knowledge areas including rec
   
 ---  
   
-# Organizations working on Personalization   
+## Organizations working on Personalization   
   
 1. [GroupLens Research](https://grouplens.org/)  
 	GroupLens is an active research group based out of University of Minnesota that works on social computing and recommedation systems. The group website some really nice resources and datasets to work on and is a good starting point for experimenters in 	the field to get to know more about the research area. The group's website describes its mission as:  
@@ -23,7 +23,7 @@ Personalization is a broad term and covers several knowledge areas including rec
     
 ---  
   
-# Online Courses  
+## Online Courses  
   
 1. [Recommender Systems Specialization - Coursera](https://www.coursera.org/specializations/recommender-systems)  
 	This course is offered by faculty members affilited with the GroupLens research group at University of Minnesota. The course also contains a capstone project.  
@@ -33,7 +33,7 @@ Personalization is a broad term and covers several knowledge areas including rec
   	
 ---  
   
-# Related Web links 
+## Related Web links 
   
 1. [Personalization (Wikipedia)](https://en.wikipedia.org/wiki/Personalization): The Wikipedia article talks about personalization in a very generalized sense. However, it is a good point to get a good perspective about its implications outside data science.  
   
